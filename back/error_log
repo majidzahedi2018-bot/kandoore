@@ -1,0 +1,704 @@
+[27-Aug-2026 05:42:26 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'story_title' cannot be null in /home/arka36/public_html/api/stories.php:90
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(90): PDOStatement->execute()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 90
+[27-Aug-2026 14:51:25 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'story_title' cannot be null in /home/arka36/public_html/api/stories.php:90
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(90): PDOStatement->execute()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 90
+[27-Aug-2026 14:51:40 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'story_title' cannot be null in /home/arka36/public_html/api/stories.php:90
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(90): PDOStatement->execute()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 90
+[27-Aug-2026 14:52:16 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'story_title' cannot be null in /home/arka36/public_html/api/stories.php:90
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(90): PDOStatement->execute()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 90
+[04-Sep-2026 17:36:10 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:36:10 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:37:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:37:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:37:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:37:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[04-Sep-2026 17:37:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected single-quoted string "          => !empty($row[", expecting "]" in /home/arka36/public_html/api/tailor.php on line 174
+[05-Sep-2026 04:27:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:27:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:28:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:28:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:29:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:29:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:30:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:30:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:31:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:31:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:32:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:32:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:32:53 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:33:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:33:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:33:53 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:34:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:34:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:34:53 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:35:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:35:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:35:53 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:36:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:36:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:36:53 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:38
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(38): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 38
+[05-Sep-2026 04:37:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:48
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 48
+[05-Sep-2026 04:38:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:48
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 48
+[05-Sep-2026 04:39:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:48
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 48
+[05-Sep-2026 04:40:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:48
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 48
+[05-Sep-2026 04:41:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.reply_to_id' in 'on clause' in /home/arka36/public_html/api/chat.php:48
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(48): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 48
+[05-Sep-2026 04:42:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:43:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:44:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:45:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:46:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:47:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:48:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:49:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:50:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:51:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:52:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:53:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:54:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:55:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:58:34 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 04:59:44 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:44 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:45 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:45 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:50 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:52 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:57 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:03:59 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:04:04 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:04:11 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:04:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:05:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:06:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:07:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:08:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:09:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:10:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:11:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:12:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:13:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:14:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:15:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:16:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:17:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:18:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:19:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:20:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:21:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:22:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:23:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:24:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:25:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:26:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:27:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:28:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:29:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:30:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:31:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:32:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:33:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:34:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:35:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:36:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 05:37:33 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'typing_at' in 'field list' in /home/arka36/public_html/api/chat.php:14
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(14): PDO->prepare()
+#1 /home/arka36/public_html/api/chat.php(86): presenceOf()
+#2 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 14
+[05-Sep-2026 08:06:44 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[05-Sep-2026 08:06:44 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[05-Sep-2026 08:08:39 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[05-Sep-2026 08:08:39 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[09-Sep-2026 06:15:03 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[09-Sep-2026 06:15:03 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[09-Sep-2026 08:49:30 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[09-Sep-2026 08:49:30 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[09-Sep-2026 08:50:09 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[09-Sep-2026 08:50:09 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[09-Sep-2026 14:38:39 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:38:40 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.orders' doesn't exist in /home/arka36/public_html/api/designs.php:67
+Stack trace:
+#0 /home/arka36/public_html/api/designs.php(67): PDO->query()
+#1 {main}
+  thrown in /home/arka36/public_html/api/designs.php on line 67
+[09-Sep-2026 14:39:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:40:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.user_presence' doesn't exist in /home/arka36/public_html/api/chat.php:106
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(106): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 106
+[09-Sep-2026 14:40:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:40:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.stories' doesn't exist in /home/arka36/public_html/api/stories.php:81
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(81): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 81
+[09-Sep-2026 14:41:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.stories' doesn't exist in /home/arka36/public_html/api/stories.php:81
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(81): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 81
+[09-Sep-2026 14:41:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:42:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:42:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.user_presence' doesn't exist in /home/arka36/public_html/api/chat.php:106
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(106): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 106
+[09-Sep-2026 14:42:06 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.stories' doesn't exist in /home/arka36/public_html/api/stories.php:81
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(81): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 81
+[09-Sep-2026 14:43:07 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:43:07 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.story_views' doesn't exist in /home/arka36/public_html/api/stories.php:81
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(81): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 81
+[09-Sep-2026 14:44:07 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.user_presence' doesn't exist in /home/arka36/public_html/api/chat.php:106
+Stack trace:
+#0 /home/arka36/public_html/api/chat.php(106): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/chat.php on line 106
+[09-Sep-2026 14:44:07 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.notifications' doesn't exist in /home/arka36/public_html/api/notifications.php:53
+Stack trace:
+#0 /home/arka36/public_html/api/notifications.php(53): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/notifications.php on line 53
+[09-Sep-2026 14:44:07 Asia/Tehran] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arka36_kandooreh_db.stories' doesn't exist in /home/arka36/public_html/api/stories.php:81
+Stack trace:
+#0 /home/arka36/public_html/api/stories.php(81): PDO->prepare()
+#1 {main}
+  thrown in /home/arka36/public_html/api/stories.php on line 81
+[11-Sep-2026 02:21:05 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[11-Sep-2026 02:21:05 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[11-Sep-2026 02:23:20 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[11-Sep-2026 02:23:20 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[11-Sep-2026 02:28:48 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[11-Sep-2026 02:28:48 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[11-Sep-2026 02:28:49 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 152
+[11-Sep-2026 02:28:49 Asia/Tehran] PHP Warning:  Undefined variable $peerId in /home/arka36/public_html/api/chat.php on line 153
+[12-Sep-2026 20:21:55 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:22:04 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:22:12 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:22:24 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:24:46 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:25:23 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:25:27 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:25:58 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:29:47 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:29:48 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:31:44 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:31:46 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:32:55 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:33:25 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:34:44 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:65) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:47:31 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:64) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:47:48 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:64) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:48:10 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:64) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 20:48:24 Asia/Tehran] PHP Fatal error:  Cannot redeclare issueUserToken() (previously declared in /home/arka36/public_html/api/auth.php:64) in /home/arka36/public_html/api/config/db.php on line 57
+[12-Sep-2026 22:02:30 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 332
+[12-Sep-2026 22:02:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:332
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(334): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 332
+[12-Sep-2026 22:06:17 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 332
+[12-Sep-2026 22:06:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:332
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(334): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 332
+[12-Sep-2026 22:23:33 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:23:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:09 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:30 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:55 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:24:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:39:39 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:39:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:41:31 Asia/Tehran] PHP Warning:  Undefined variable $pdo in /home/arka36/public_html/api/admin.php on line 334
+[12-Sep-2026 22:41:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arka36/public_html/api/admin.php:334
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/arka36/public_html/api/admin.php(336): array_map()
+#2 {main}
+  thrown in /home/arka36/public_html/api/admin.php on line 334

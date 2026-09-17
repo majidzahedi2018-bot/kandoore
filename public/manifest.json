@@ -1,0 +1,20 @@
+{
+  "name": "کَندوره — سفارش آنلاین لباس سنتی هرمزگان",
+  "short_name": "کَندوره",
+  "description": "پلتفرم سفارش آنلاین لباس سنتی هرمزگان؛ بادله، شلوار بندری و زری‌بافی با پرداخت امانی",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0705",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "appId": "com.kandooreh.app",
+  "appName": "Kandooreh",
+  "webDir": "dist",
+  "server": {
+    "allowNavigation": [
+      "images.unsplash.com",
+      "kandoore.ir"
+    ]
+  }
+}
